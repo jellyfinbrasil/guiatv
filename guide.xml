@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SPORTV HD">
+    <display-name lang="pt">SPORTV HD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1659479255.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPORTV 2 H264">
+    <display-name lang="pt">SPORTV 2 H264</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1624422329.gif|https://www.lineup.tv.br/canais/tvevangelizar.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPORTV 3 H264">
+    <display-name lang="pt">SPORTV 3 H264</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1637284312.gif|https://www.lineup.tv.br/canais/1637284550.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN FHD">
+    <display-name lang="pt">ESPN FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN 3 HD">
+    <display-name lang="pt">ESPN 3 HD</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="ESPN 4 HD">
+    <display-name lang="pt">ESPN 4 HD</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+</tv>
